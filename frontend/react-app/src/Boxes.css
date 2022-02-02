@@ -1,0 +1,39 @@
+.Container{
+    max-width: 660px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid white;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: grey;
+}
+
+Button {
+    border-radius: 5px;
+    padding: 8px 8px;
+    border: none;
+    margin-left: 445px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.box-container{
+    background-color: rgb(37, 63, 119);
+    margin: 8px 0;
+    padding: 15px 20px;
+    display: flex;
+    border-radius:  5px;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+}
+
+.box-input{
+    width: 70%;
+    border-radius: 5px;
+    padding: 9px 20px;
+}
